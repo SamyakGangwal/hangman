@@ -50,38 +50,3 @@ class hangman():
 				print("score = " +str(hangman.score))
 			return counter
 					
-#import prac as gui
-#import tkinter
-#score=0
-#rand_no=2
-#counter=5
-			#global newkey
-		#while(counter>0):
-			#print("Enter the name of the animal")
-			#name=input()
-#print("enter a word\n")
-			#while(iteration<=len(newkey) and counter>0):
-#flag_2=0
-				#print(len(newkey))
-				#print("enter a letter at a time\n")
-				#character=input()
-#iteration+=1
-#if name!=hangman.key:
-		#	counter=counter-1
-		#	print("WRONG ANSWER TYPE AGAIN :(\n")
-		#	print("lives : "+ str(counter))
-		#else:
-		#	hangman.score=hangman.score+1
-		#	break
-		#'''
-#ob1=hangman()
-#ob2=gui.test_gui()
-#while True:
-#	ob1.display()
-#	ob1.read()
-	
-#	print("Do u want to QUIT ?(y/n)\n")
-#	ans=input()
-#	if ans=='y'or ans=='Y':
-#		break
-#print(ob1.score)
